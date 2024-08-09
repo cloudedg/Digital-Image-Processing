@@ -1,10 +1,10 @@
 **Digital Image Processing**
 
-#Overview
+#Overview:
 This repository contains a collection of Python scripts for image processing tasks, including splitting RGB channels, 
 resizing images, histogram equilizer, and converting images to grayscale.
 
-#Prerequisites
+#Prerequisites:
 Ensure you have the following libraries installed before running the scripts:
 
     OpenCV (opencv-python)
