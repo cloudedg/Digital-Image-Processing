@@ -1,4 +1,4 @@
-##Digital Image Processing
+**Digital Image Processing**
 
 #Overview
 This repository contains a collection of Python scripts for image processing tasks, including splitting RGB channels, 
